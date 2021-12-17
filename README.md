@@ -14,12 +14,14 @@
 
 ## Bar Chart
 column chart
+
 <img src="./graphs/clustered_bar_chart.png"  width="auto" max-height="300px"/>
 
 --------
 
 
 ## Dot plot
+
 <img src="./graphs/dot_plot.png"  width="auto" max-height="300px"/>
 
 --------
@@ -28,6 +30,7 @@ column chart
 
 ## Connected dot plot
 barbell chart, dumb bell chart
+
 <img src="./graphs/connected_dot_plot.png"  width="auto" height="300px"/>
 
 --------
@@ -36,9 +39,13 @@ barbell chart, dumb bell chart
 
 ## Pictogram
 isotype chart, pictorial bar chart, stacked shape chart, tally chart
+
 <img src="./graphs/pictogram_1.png"  width="auto" max-height="300px"/>
+
 <img src="./graphs/pictogram_2.png"  width="auto" max-height="300px"/>
+
 <img src="./graphs/pictogram_3.png"  width="auto" max-height="300px"/>
+
 <img src="./graphs/pictogram_4.png"  width="auto" max-height="300px"/>
 
 --------
@@ -47,6 +54,7 @@ isotype chart, pictorial bar chart, stacked shape chart, tally chart
 
 ## Bubble chart
 circle packing diagram
+
 <img src="./graphs/bubble_chart.png"  width="auto" max-height="300px"/>
 
 --------
@@ -55,6 +63,7 @@ circle packing diagram
 
 ## Radar chart
 star chart, spider diagram, web chart
+
 <img src="./graphs/radar_chart.png"  width="auto" max-height="300px"/>
 
 --------
@@ -62,18 +71,21 @@ star chart, spider diagram, web chart
 
 ## Polar chart
 coxcomb plot, area plot
+
 <img src="./graphs/polar_chart.png"  width="auto" max-height="300px"/>
 
 --------
 
 ## Range chart
 span chart, floating bar chart, barometer chart
+
 <img src="./graphs/range_chart.png"  width="auto" max-height="300px"/>
 
 --------
 
 ## box-and-whisker plot
 boxplot
+
 <img src="./graphs/box-and-whisker.png"  width="auto" max-height="300px"/>
 
 --------
