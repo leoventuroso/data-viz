@@ -9,6 +9,7 @@
 - [Polar chart](#polar-chart)
 - [Range chart](#range-chart)
 - [Box and Whisker plot](#box-and-whisker-plot)
+- [Univariate scatterplot](#univariate-scatterplot)
   
 --------
 
@@ -87,6 +88,13 @@ span chart, floating bar chart, barometer chart
 boxplot
 
 <img src="./graphs/box-and-whisker.png"  width="auto" max-height="300px"/>
+
+--------
+
+## Univariate scatterplot 
+jitter plot
+
+<img src="./graphs/univariate_scatterplot.png"  width="auto" max-height="300px"/>
 
 --------
 
