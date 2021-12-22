@@ -98,3 +98,50 @@ jitter plot
 
 --------
 
+## Histogram
+
+<img src="./graphs/histogram.png"  width="auto" max-height="300px"/>
+
+--------
+
+
+## Word cloud
+tag coud
+
+<img src="./graphs/word_cloud.png"  width="auto" max-height="300px"/>
+
+--------
+
+## Pie Chart
+pizza chart
+
+<img src="./graphs/pie_chart.png"  width="auto" max-height="300px"/>
+
+--------
+
+## Waffle chart
+square pie, unit chart, 100% stacked shape chart
+
+<img src="./graphs/waffle_chart.png"  width="auto" max-height="300px"/>
+
+--------
+
+## Back to back chart
+paired bar chart
+
+<img src="./graphs/back_to_back_chart.png"  width="auto" max-height="300px"/>
+
+--------
+
+## Treemap
+
+<img src="./graphs/treemap.png"  width="auto" max-height="300px"/>
+
+--------
+
+## Dendogram
+node-link diagram, layout tree, cluster tree, tree hierarchy
+
+<img src="./graphs/dendogram.png"  width="auto" max-height="300px"/>
+
+--------
