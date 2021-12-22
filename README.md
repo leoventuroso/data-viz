@@ -10,7 +10,13 @@
 - [Range chart](#range-chart)
 - [Box and Whisker plot](#box-and-whisker-plot)
 - [Univariate scatterplot](#univariate-scatterplot)
-  
+- [Histogram](#histogram)
+- [Word cloud](#word-cloud)
+- [Pie Chart](#pie-hart)
+- [Waffle chart](#waffle-chart)
+- [Back to back chart](#back-to-back-chart)
+- [Treemap](#treemap)
+- [Dendogram](#dendogram)
 --------
 
 ## Bar Chart
